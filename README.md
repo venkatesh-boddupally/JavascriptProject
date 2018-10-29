@@ -1,7 +1,8 @@
+                                            GAME RULES:
+------------------------------------------------------------------------------------------------------------------------------------------
+
 app.js rules:
 --------------
-GAME RULES:
-
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
 - BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn
@@ -15,6 +16,6 @@ challenge1.js
 
 challenge2.js
 -----------------
-2. Add an input field to the HTML where players can set the winning score,
+1. Add an input field to the HTML where players can set the winning score,
 so that they can change the predefined score of 100.
 
